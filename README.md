@@ -1,4 +1,6 @@
 # :earth_africa: alpine
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjeffdinotoriverbed%2Falpine.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjeffdinotoriverbed%2Falpine?ref=badge_shield)
+
 
 ![](https://raw.githubusercontent.com/multiarch/dockerfile/master/logo.jpg)
 
@@ -46,3 +48,6 @@ Linux 1ae459268bce 3.13.0-36-generic #63-Ubuntu SMP Wed Sep 3 21:30:07 UTC 2014 
 ## License
 
 MIT
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjeffdinotoriverbed%2Falpine.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjeffdinotoriverbed%2Falpine?ref=badge_large)
